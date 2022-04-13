@@ -1,6 +1,8 @@
 # MMM-Skola24
 A [MagicMirror²](https://github.com/MichMich/MagicMirror) module that shows Swedish school timetables from Skola24.
 
+![image](https://user-images.githubusercontent.com/25268023/163270857-f13185dc-593f-4662-b863-70216571c297.png)
+
 # Installation
 1. Clone repo:
 ```
