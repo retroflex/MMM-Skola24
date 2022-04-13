@@ -40,3 +40,6 @@ A [MagicMirror²](https://github.com/MichMich/MagicMirror) module that shows Swe
 | `darkModeRecolorLessons`      | Only used in dark mode. True to color all lesson boxes dark green. False to keep original colors (which imo are to bright for MagicMirror).<br />**Default value:** `true`
 
 The `unitGuid` and `selection` values can be fetched with your browser's developer tools (open with F12 in browser). Go to e.g. https://web.skola24.se/timetable/timetable-viewer/goteborg.skola24.se/any-test, select the school and class and inspect the outgoing network traffic and you can find these values.
+
+# Details
+On weekdays, the timetable for the current week is shown. On the weekend it will instead show the timetable for the upcoming week.
