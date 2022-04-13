@@ -1,0 +1,27 @@
+{
+	"name": "MMM-Skola24",
+	"version": "1.0.0",
+	"description": "A MagicMirror2 module that shows school lunch menus in Sweden from www.skolmaten.se.",
+	"keywords": [
+		"magic mirror",
+		"schema",
+		"skolschema",
+		"skola24",
+		"sweden"
+	],
+	"homepage": "https://github.com/retroflex/MMM-Skola24#readme",
+	"bugs": {
+		"url": "https://github.com/retroflex/MMM-Skola24/issues"
+	},
+	"license": "MIT",
+	"author": "Johan Persson",
+	"main": "MMM-Skola24.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/retroflex/MMM-Skola24"
+	},
+	"dependencies": {
+		"axios": "0.26.1",
+		"luxon": "2.3.1"
+	}
+}
