@@ -2,6 +2,8 @@
 A [MagicMirror²](https://github.com/MichMich/MagicMirror) module that shows Swedish school timetables from Skola24.
 
 ![image](https://user-images.githubusercontent.com/25268023/163270857-f13185dc-593f-4662-b863-70216571c297.png)
+[Bright mode screenshot](https://user-images.githubusercontent.com/25268023/163323529-1d9d37a6-c80f-46b9-bb2c-11c9da47f14f.png)
+[Colored dark mode screenshot](https://user-images.githubusercontent.com/25268023/163323552-0e28268f-2249-4266-a6f8-96f820284176.png)
 
 # Installation
 1. Clone repo:
