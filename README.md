@@ -9,26 +9,26 @@ A [MagicMirror²](https://github.com/MichMich/MagicMirror) module that shows Swe
 # Installation
 1. Clone repo:
 ```
-	cd MagicMirror/modules/
-	git clone https://github.com/retroflex/MMM-Skola24
+cd MagicMirror/modules/
+git clone https://github.com/retroflex/MMM-Skola24
 ```
 2. Install dependencies:
 ```
-	cd MMM-Skola24/
-	npm install
+cd MMM-Skola24/
+npm install
 ```
 3. Add the module to the ../MagicMirror/config/config.js, example:
 ```
-		{
-			module: 'MMM-Skola24',
-			header: 'My Timetable',
-			position: 'bottom_right',
-			config: {
-				host: 'goteborg.skola24.se',
-				unitGuid: 'ODJiYjcwYjEtYWE3MS1mNGU1LWFhNDktOTU2ZDM5M2M4NmQ5',
-				selection: 'OGQ5ZmM5YTQtOTZkMi1mY2I4LWE4M2ItZTJiZjI5MjFiMmEx',
-			}
-		},
+{
+	module: 'MMM-Skola24',
+	header: 'My Timetable',
+	position: 'bottom_right',
+	config: {
+		host: 'goteborg.skola24.se',
+		unitGuid: 'ODJiYjcwYjEtYWE3MS1mNGU1LWFhNDktOTU2ZDM5M2M4NmQ5',
+		selection: 'OGQ5ZmM5YTQtOTZkMi1mY2I4LWE4M2ItZTJiZjI5MjFiMmEx',
+	}
+},
 ```
 
 # Configuration
